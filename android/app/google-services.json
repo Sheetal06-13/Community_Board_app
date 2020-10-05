@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "787866880148",
+    "firebase_url": "https://flutterboard-d2066.firebaseio.com",
+    "project_id": "flutterboard-d2066",
+    "storage_bucket": "flutterboard-d2066.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787866880148:android:53cedc48fcb1d2c89c4c81",
+        "android_client_info": {
+          "package_name": "com.example.board_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787866880148-i3tosrfgctpbvok0vp0v341smfob2ti9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5yhcc7wQ1dVKEFSaAg4H2b0qHEGd6C0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787866880148-i3tosrfgctpbvok0vp0v341smfob2ti9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
